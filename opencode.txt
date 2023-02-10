@@ -1,0 +1,28 @@
+1.             GIT                                                                                                          GITHUB
+GIT is a software                                                                                      GITHUB  is a service
+GIT is a command line tool                                                                GITHUB is a graphical user interface
+GIT  ismaintained by linux                                                              GITHUB is maintained by MICROSOFT
+GIT WAS FIRST RELEASED IN 2005                                                GITHUB was first launced in 2008
+GIT HAS no user  management feature                                        GITHUB has a built in user 
+GIT IS open source licensed                                                                  management feature
+GIT PROVIDES a desktop interface named GIT GUI                     GITHUB includes a free-tier and pay 
+GIT is installed locally on the system                                                   for-use tier
+                                                                                                             GITHUB is hosted on the web
+
+2.    BASIC GIT COMMANDS
+    1.gitadd-moves changes from the working directory to the staging area.
+    2.git clean-Removes untracked files from the working directory.
+    3.git commit-Takes the staged snapshot and commits it to the project history.
+    4.git config-A convenient way to set configuration options for your Git installation.
+    5.git merge-A powerful way to integrate changes from divergent branches.
+
+
+3.HOW TO MAKE A PULL REQUEST.
+   1.Switch to the branch that you want to create a pull request 
+   2.Click create pull request .GITHUB desktop will open your default browser to take you to 
+     GITHUB.
+   3.ON github,confirm that the branch in the base.-drop-down menu is the branch where you want 
+      merge your changes.CONFIRM  that the branch in the compare. drop-down is the topic branch 
+       where you made your changes.
+    4.Type a title and description for your pull request .
+    5.To create a pull request that is ready for review , click  Create pull request . to create a draft pull request , use the drop-down and select Create Draft Pull Request,then click Draft Pull Request.
